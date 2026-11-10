@@ -1,5 +1,10 @@
 # hi
 
+this is my profile
+
+i will be testing things to make it look better
+
+yay
 <!--
 **gianEstrella4/gianEstrella4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
